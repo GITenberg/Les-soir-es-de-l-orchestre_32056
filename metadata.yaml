@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Hector_Berlioz
     - http://en.wikipedia.org/wiki/Hector_Berlioz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32056#Les-soir-es-de-l-orchestre
 gutenberg_bookshelf: FR Musique
 gutenberg_issued: '2010-04-19'
 gutenberg_type: Text
