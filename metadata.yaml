@@ -1,0 +1,34 @@
+_repo: Les-soir-es-de-l-orchestre_32056
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Berlioz, Hector
+    aliases:
+    - Berlioz, H. (Hector)
+    - Berlioz, Louis Hector
+    birthdate: 1803
+    deathdate: 1869
+    gutenberg_agent_id: '31953'
+    url: http://www.gutenberg.org/2009/agents/31953
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Hector_Berlioz
+    - http://en.wikipedia.org/wiki/Hector_Berlioz
+description: ''
+gutenberg_bookshelf: FR Musique
+gutenberg_issued: '2010-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32056'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Music -- History and criticism'
+- !lcsh 'Music -- France -- Paris -- History and criticism'
+- !lcc 'ML'
+title: Les soirées de l'orchestre
+url: http://www.gutenberg.org/ebooks/32056
